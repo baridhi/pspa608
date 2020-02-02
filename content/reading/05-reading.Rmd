@@ -1,8 +1,8 @@
 ---
-title: "DAGs and potential outcomes"
-linktitle: "5: DAGs and potential outcomes"
-date: "2020-02-12"
-read_date: "2020-02-12"
+title: "How to Test the Difference between Two Groups"
+linktitle: "5: How to Test the Difference between Two Groups"
+date: "2020-11-17"
+read_date: "2020-11-17"
 menu:
   reading:
     parent: Readings
@@ -14,5 +14,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 ## Required
 
-- <i class="fas fa-book"></i> Chapter 3 in *Impact Evaluation in Practice* [@wb-eval]
-- <i class="fas fa-book"></i> "Potential outcomes causal model" in *Causal Inference: The Mixtape* [@mixtape]
+- <i class="fas fa-book"></i> Chapter 13 in *Applied Statistics for Public and Nonprofit Administration* [@meier-etal]

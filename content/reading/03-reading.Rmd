@@ -1,8 +1,8 @@
 ---
-title: "Theories of change and logic models"
-linktitle: "3: Theories of change and logic models"
-date: "2020-01-29"
-read_date: "2020-01-29"
+title: "Understand the Process of Generalizing from a Random Sample to the Population from which it is drawn"
+linktitle: "3: Sampling"
+date: "2020-11-03"
+read_date: "2020-11-03"
 menu:
   reading:
     parent: Readings
@@ -14,9 +14,8 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 ## Required
 
-- <i class="fas fa-book"></i> Chapter 2 in *Impact Evaluation in Practice* [@wb-eval]
-- <i class="fas fa-book"></i> Chapter 2 in *Evaluation: A Systematic Approach* [@RossiLipseyHenry:2019]. This is available on iCollege.
-- <i class="fas fa-book"></i> Chapter 3 in *Evaluation: A Systematic Approach* [@RossiLipseyHenry:2019]. This is available on iCollege.
+- <i class="fas fa-book"></i> Chapter 9 in *Practical Research Methods for Nonprofit and Public Administrators* [@stats-text]
+- <i class="fas fa-book"></i> Chapter 11 in *Essential Statistics for Public Managers and Policy Analysts.* [@berman-wang] This is available on Blackboard.
 
 ## Additional pre-class assignment
 

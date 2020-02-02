@@ -14,24 +14,26 @@ lessons:
 
   - title: '<i class="fas fa-university"></i> **Understand the Process of Generalizing from a Random Sample to the Population from which it is drawn**'
     date: "November 3"
+    reading: "03-reading"
     assignment: "03-problem-set"
 
   - title: '<i class="fas fa-university"></i> **Performance Dashboard in Governments**'
     date: "November 10"
-    reading: "03-reading"
+    reading: "04-reading"
 
   - title: '<i class="fas fa-university"></i> **How to Test the Difference between Two Groups**'
     date: "November 17"
+    reading: "05-reading"
     assignment: "02-problem-set"
 
   - title: '<i class="fas fa-university"></i> **Analysis of Variance (ANOVA) and Simple Regression**'
     date: "November 24"
-    reading: "04-reading"
+    reading: "06-reading"
 
   - title: '<i class="fas fa-university"></i> **Communicating Findings**'
     date: "December 1"
+    reading: "07-reading"
     assignment: "01-eval-background-theory"
 
   - title: '<i class="fas fa-university"></i> **Transforming and Delivering Your Ideas**'
     date: "December 8"
-    reading: "05-reading"

@@ -20,7 +20,7 @@ design:
     text_color_light: true
 
 cta_note:
-  label: Fall 2020<br>School of Public & Global Affairs<br>Nothern Illinois University
+  label: Fall 2020<br>School of Public & Global Affairs<br>Northern Illinois University
 ---
 
 **PSPA 608**
