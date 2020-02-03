@@ -13,8 +13,8 @@ title: "Public Service Performance II: Management and Data Analysis"
 design:
   background:
     # Background gradient
-    gradient_start: '#A52C60'
-    gradient_end: '#CF4446'
+    gradient_start: '#16222A'
+    gradient_end: '#3A6073'
 
     # Text color (true=light or false=dark).
     text_color_light: true

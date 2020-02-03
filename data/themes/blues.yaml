@@ -1,0 +1,22 @@
+# Theme metadata
+name: "Blues"
+
+# Is theme light or dark?
+light: true
+
+# Primary
+primary: "#3A6073"
+
+# Links
+link: "#3A6073"
+link_hover: "#9CAFB9"
+
+# Menu
+menu_primary: "#fff"
+menu_text: "#3A6073"
+menu_text_active: "#9CAFB9"
+menu_title: "#16222A"
+
+# Home sections
+home_section_odd: "rgb(255, 255, 255)"
+home_section_even: "rgb(247, 247, 247)"
